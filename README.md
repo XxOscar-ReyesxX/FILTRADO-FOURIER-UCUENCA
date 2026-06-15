@@ -22,9 +22,15 @@ El proceso realizado es el siguiente:
 
 ### Señal original
 
-- [Audio original](Señal%20limpia.wav)
+<audio controls>
+  <source src="Se%C3%B1al%20limpia.wav" type="audio/wav">
+  Tu navegador no soporta el elemento de audio.
+</audio>
 
 ### Señal con filtros
 
-- [Audio filtrado](y(t)_pasa-altas_fc1_750Hz.wav)
+<audio controls>
+  <source src="y(t)_pasa-altas_fc1_750Hz.wav" type="audio/wav">
+  Tu navegador no soporta el elemento de audio.
+</audio>
 
